@@ -25,10 +25,7 @@ This is a simple fullstack web app for library management, built using the MERN 
     <li><a href="#-help">Help</a></li>
     <li><a href="#-authors">Authors</a></li>
     <li><a href="#-file-structure">File Structure</a></li>
-    <li><a href="#-gallery">Gallery</a></li>
-    <li><a href="#-version-history">Version History</a></li>
-    <li><a href="#-license">License</a></li>
-    <li><a href="#-acknowledgments">Acknowledgments</a></li>
+    
   </ol>
 </details>
 
@@ -86,7 +83,7 @@ You need a computing environment with an up to date version of Windows/Mac OS/Li
 
 * Clone the code repo using **HTTPS**, SSH or Github CLI
 ```
-git clone https://github.com/MERNRAD/LibraryManagement.git
+git clone https://github.com/Krishna8660/Library-Management-System.git
 ```
 
 ### 🚀 Installing and executing (dev)
@@ -107,14 +104,14 @@ npm start
 3. Use the following demo accounts to login
 - Librarian
 ```
-Email address: testlibrarian@library.com
-Password: librarian123
+Email address: krishnapatil@gmail.com
+Password: krishna17
 ```
 
 - Member
 ```
-Email address: testmember@library.com
-Password: member123
+Email address: sumitpatil@gmail.com
+Password: sumit17
 ```
 
 <!-- HELP -->
@@ -127,11 +124,7 @@ Contact authors if you need help or run into any issues
 
 ## 👥 Authors
 
-  - Sandul Renuja | 2020/CS/054 - 2020cs054@stu.ucsc.cmb.ac.lk
-  - Abdullah Jasmin | 2020/CS/002 - 2020cs002@stu.ucsc.cmb.ac.lk
-  - Ravindu Wegiriya | 2020/CS/204 - 2020cs204@stu.ucsc.cmb.ac.lk
-  - Kaveesha Muthukuda | 2020/CS/118 - 2020cs118@stu.ucsc.cmb.ac.lk
-  - Induwara Pathirana | 2020/CS/126 - 2020cs126@stu.ucsc.cmb.ac.lk
+  - Krishna Patil
 
 <!-- FILE STRUCTURE -->
 
@@ -178,50 +171,3 @@ Contact authors if you need help or run into any issues
 | 1  | server/index.js      | Node.js server app entry point  |
 | 2  | client/src/index.js  | Client react app entry point    |
 
-<!-- GALLERY -->
-
-###  📸 Gallery
-
-![Screenshot 2022-10-27 at 15 52 48 Large](https://user-images.githubusercontent.com/49369577/198261312-d21a461a-0dd9-46a8-897c-f8c06f76ef5a.jpeg)
-
-![Screenshot 2022-10-27 at 15 53 06 Large](https://user-images.githubusercontent.com/49369577/198261409-31625ee5-b743-4360-a54a-8c2834a26f41.jpeg)
-
-![Screenshot 2022-10-27 at 15 53 23 Large](https://user-images.githubusercontent.com/49369577/198261440-9c43f63e-9ba4-4f16-a552-9d210f40c8df.jpeg)
-
-![Screenshot 2022-10-27 at 15 53 31 Large](https://user-images.githubusercontent.com/49369577/198261486-fd2f6bfa-955f-4cdc-9716-091d5ba027a9.jpeg)
-
-![Screenshot 2022-10-27 at 15 53 38 Large](https://user-images.githubusercontent.com/49369577/198261620-a6669984-8a9a-4067-b9e8-e6f716d8f76b.jpeg)
-
-![Screenshot 2022-10-27 at 15 53 49 Large](https://user-images.githubusercontent.com/49369577/198261666-b550362c-4e69-47f4-aaf2-1bbcb278d96e.jpeg)
-
-![Screenshot 2022-10-27 at 15 54 04 Large](https://user-images.githubusercontent.com/49369577/198261690-4bc70865-4f25-403a-a2c2-a1f0192ab02a.jpeg)
-
-![Screenshot 2022-10-27 at 15 54 16 Large](https://user-images.githubusercontent.com/49369577/198261718-67c1800e-549c-4fe3-9219-95bcaf5302c6.jpeg)
-
-![Screenshot 2022-10-27 at 15 54 27 Large](https://user-images.githubusercontent.com/49369577/198261796-63cc2266-c59f-42ee-91aa-ea585df55fc2.jpeg)
-
-![Screenshot 2022-10-27 at 15 55 15 Large](https://user-images.githubusercontent.com/49369577/198261821-d5e36256-552c-4664-8018-cf9269ae768d.jpeg)
-
-
-<!-- VERSION HISTORY -->
-
-## 📄 Version History
-
-* 1.1
-    * Various bug fixes and optimizations
-    * See [dev branch commit history](https://github.com/MERNRAD/LibraryManagement/commits/dev)
-* 1.0
-    * Initial Release
-    
-<!-- LICENSE -->
-
-## 🔒 License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🌟 Acknowledgments
-
-Frontend React UI Template
-* [@minimal/material-kit-react](https://mui.com/store/items/minimal-dashboard-free/)
