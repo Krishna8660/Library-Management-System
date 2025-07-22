@@ -1,4 +1,4 @@
-# Library Management App
+# Library Management Website
 _Current version: v1.1_
 
 This is a simple fullstack web app for library management, built using the MERN stack.
