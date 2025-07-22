@@ -1,4 +1,4 @@
-# Library App using React and MUI
+# Library Website using React and MUI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
