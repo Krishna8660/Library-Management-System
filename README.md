@@ -171,3 +171,8 @@ Contact authors if you need help or run into any issues
 | 1  | server/index.js      | Node.js server app entry point  |
 | 2  | client/src/index.js  | Client react app entry point    |
 
+
+
+
+https://github.com/user-attachments/assets/1ce7bbed-f78b-4074-ac7f-455627c5b713
+
